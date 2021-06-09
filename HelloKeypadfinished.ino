@@ -93,7 +93,7 @@ void loop() {
 
    
 
-  if(bigb>1000 ){
+  if(bigb>1000 and key1<3000 ){
     newFunction();
     }
 
